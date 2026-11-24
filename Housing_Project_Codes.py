@@ -1,4 +1,4 @@
-# Week11_Exercises.py
+# california housing
 
 import numpy as np
 import pandas as pd
